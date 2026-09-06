@@ -109,7 +109,7 @@
                 {
                     "type": "git",
                     "url": "https://git.code.sf.net/p/torcs/code",
-                    "commit": "7ed3e067f1a1aae917b9bf1aa054dde7c339398d",
+                    "commit": "7ed3e067f1a1aae917b9bf1aa054dde7c339398d"
                 },
                 {
                     "type": "file",
